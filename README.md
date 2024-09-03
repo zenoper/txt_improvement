@@ -22,3 +22,7 @@ Sentence: 'Growth is essential for our future, but equally important is building
 Sentence: 'Lastly, we agreed that we must take time to look over our plans carefully and consider all angles before moving forward.'
   Best match: 'Execute strategies' with similarity: 0.3248
   Best match: 'Exercise due diligence' with similarity: 0.3228
+
+
+
+  Link to Video Explanation: https://drive.google.com/file/d/1BN4FLwCMcmM-KycOdwg220eseTwVFKk4/view?usp=sharing
